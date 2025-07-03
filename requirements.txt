@@ -21,3 +21,4 @@ pyperclip
 setuptools
 sqlparse
 virtualenv
+djangorestframework
