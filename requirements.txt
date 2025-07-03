@@ -22,3 +22,4 @@ setuptools
 sqlparse
 virtualenv
 djangorestframework
+django-filter
